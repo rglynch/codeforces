@@ -1,5 +1,4 @@
 import math
-from fractions import gcd
 [(x0,y0),(x1,y1),(x2,y2)] = [raw_input().split() for _ in xrange(3)]
 x0,y0 = float(x0),float(y0)
 x1,y1 = float(x1),float(y1)
